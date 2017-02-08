@@ -1,0 +1,83 @@
+body {
+    color: black;
+    text-align: left;
+    font-size: 20;
+    font-family: "Times New Roman";
+    background-image: url(grey-white-background.jpg); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.list { 
+	text-align: center;
+	color: black;
+    display: inline ;
+
+ }
+ a{color: black;}
+
+ #Title{
+ 	text-align: center;
+ 	font-size: 80;
+
+ }
+
+#Profile {
+	padding: 5px;
+	background-color: #797D7F; 
+
+}
+
+ ul {
+
+ 	display: inline;
+
+ }
+ .DivisionOne{
+ 	text-align: center;
+ 	color:black;
+
+ }
+ .index {
+ 	text-align: center;
+ 	font-size: 25;
+ 	color: black;
+ }
+.text_back{
+	margin: circle; 
+	background-color: #797D7F;
+	color: black;
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#About {
+
+	background-color: #626567;
+	height: 50%;
+
+}
+
+#Work {
+
+	background-color: #797D7F;
+	height: 50%;
+}
+
+#Contact {
+
+	background-color: #909497;
+	height: 50%;
+}
+
+.txtbox {
+
+	background-color: #797D7F;
+	border-color: #626567;
+}
+
+#josh {
+	padding: 3px;
+	background-color: #626567;
+}
