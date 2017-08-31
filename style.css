@@ -81,3 +81,9 @@ body {
 	padding: 3px;
 	background-color: #626567;
 }
+
+#AboutPic {
+	padding: 5px;
+	background-color: black;	
+	height: 50%
+}
